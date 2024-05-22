@@ -139,7 +139,7 @@ protobuf==4.23.3
     #   proto-plus
 pyarrow==14.0.1
     # via feast (setup.py)
-pydantic==1.10.13
+pydantic==2.7.1
     # via
     #   fastapi
     #   feast (setup.py)
